@@ -1,0 +1,25 @@
+.navbar-inverse {
+  background-color: palegreen;
+  border-color: goldenrod;
+}
+
+/*
+.navbar-inverse .navbar-nav > .active> a,
+.navbar-inverse .navbar-nav > .active> a:hover,
+.navbar-inverse .navbar-nav > .actives> a:focus {
+  color: gray;
+  background-color: rosybrown;
+}
+*/
+
+#active {
+    color: white;
+    background-color:  rosybrown;
+}
+
+li:hover {
+    background-color:  rosybrown; 
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: black;

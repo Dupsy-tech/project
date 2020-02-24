@@ -1,0 +1,74 @@
+
+  .table {
+    border-collapse: collapse !important;
+  }
+  .table td,
+  .table th {
+    background-color: #fff !important;
+  }
+  .table-bordered th,
+  .table-bordered td {
+    border: 5px solid #ddd !important;
+  }
+.container:before,
+.container:after,
+.container-fluid:before,
+.container-fluid:after,
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  background-color: antiquewhite;
+}
+ .navbar-header {
+    float: left;
+}
+.navbar-toggle:focus {
+  outline: 0;
+}
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  border-radius: 1px;
+}
+.navbar-toggle .icon-bar + .icon-bar {
+  margin-top: 4px;
+}
+
+.navbar-inverse {
+  background-color: beige;
+  border-color: blueviolet;
+}
+
+#active {
+    background-color: brown
+}
+.btn-default {
+  color: red;
+  background-color: whitesmoke;
+  border-color: #ccc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: pink;
+  border-color: blueviolet;
+    }
+.container .jumbotron,
+.container-fluid .jumbotron {
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 6px;
+}
+.jumbotron .container {
+  max-width: 100%;
+}

@@ -1,0 +1,20 @@
+.navbar-inverse {
+  background-color: blue;
+  border-color: blueviolet;
+}
+
+#active {
+    background-color: brown
+}
+.btn-default {
+  color: red;
+  background-color: whitesmoke;
+  border-color: #ccc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: pink;
+  border-color: blueviolet;
+    }
+      
